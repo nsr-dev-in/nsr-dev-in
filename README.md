@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Nitin Singh 👋
 
-<!--
-**nsr-dev-in/nsr-dev-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+Currently Learning:
+- Excel
+- SQL
+- Python
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+- Study Abroad Intelligence Platform
+- Sales-Dashboard
+- Netflix Data Cleaning
+- Bike-Sales-Analysis-Excel-Project
+- Madhav-Ecommerce-Sales-DashboardMadhav-Ecommerce-Sales-Dashboard
+- Vrinda-Store-Sales-Analysis-Excel-Project
+
+Goals for 2026:
+- Build 20+ Data Analytics Projects
+- Land a Data Analyst Internship
+- Grow on LinkedIn
+
+Connect:
+LinkedIn: https://www.linkedin.com/in/nsr2k06/
