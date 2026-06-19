@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitin Singh</h1>
 <h3 align="center">📊 Aspiring Data Analyst | Python | SQL | Excel | Power BI 🚀 Building Data Projects in Public</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nsr-dev-in&label=Profile%20views&color=0e75b6&style=flat" alt="nsr-dev-in" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsr-dev-in" alt="nsr-dev-in" /></a> </p>
 
 - 🔭 I’m currently working on [Study Abroad Intelligence Platform](https://github.com/nsr-dev-in)
 
