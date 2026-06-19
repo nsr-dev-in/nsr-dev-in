@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin Singh</h1>
-<h3 align="center">📊 Aspiring Data Analyst | Python | SQL | Excel | Power BI 🚀 Building Data Projects in Public</h3>
+<h3 align="center">📊 Aspiring Data Analyst | Python | SQL | Excel | Power BI </h3>
 
 
 - 🔭 I’m currently working on [Study Abroad Intelligence Platform](https://github.com/nsr-dev-in)
